@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Cross-platform .NET Standard library for LINE stickers.</Description>
+    <Authors>Siketyan</Authors>
+    <Company />
+    <Copyright>Copyright (C) 2017 Siketyan</Copyright>
+    <PackageLicenseUrl>https://github.com/Siketyan/LINEStickersLib/LICENSE.md</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Siketyan/LINEStickersLib</PackageProjectUrl>
+    <PackageIconUrl></PackageIconUrl>
+    <RepositoryUrl>https://github.com/Siketyan/LINEStickersLib</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>LINE sticker cross-platform standard library</PackageTags>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+</Project>

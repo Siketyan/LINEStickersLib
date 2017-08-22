@@ -1,7 +1,7 @@
 # LINEStickersLib
 Cross-platform .NET Standard library for LINE stickers.  
 
-![AppVeyor Status](https://ci.appveyor.com/api/projects/status/gmgop8kevyfg112f?retina=true)
+![https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
 
 ## Features
 Get informations of LINE sticker packages.

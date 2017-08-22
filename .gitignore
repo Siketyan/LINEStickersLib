@@ -1,0 +1,7 @@
+﻿# Directories
+/.vs/
+/bin/
+/obj/
+
+# Files
+*.user

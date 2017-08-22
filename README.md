@@ -6,8 +6,8 @@ Cross-platform .NET Standard library for LINE stickers.
 ## Features
 Get informations of LINE sticker packages.
 - Title, author, description and price
-- Whether the package is an official packages or not
-- Whether the package has sounds, animations or popups
+- Whether or not the package is an official packages
+- Whether or not the package has sounds, animations or popups
 - URLs of media of the stickers and the thumbnail of the package
 
 ## Open Source Libraries

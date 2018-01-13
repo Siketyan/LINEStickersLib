@@ -2,7 +2,7 @@
 
 Cross-platform .NET Standard library for LINE stickers.
 
-[![Build Status](https://img.shields.io/appveyor/ci/siketyan/LINEStickersLib/master.svg)]
+[![Build status](https://ci.appveyor.com/api/projects/status/do0vudmtle3m238p?retina=true)](https://ci.appveyor.com/project/Siketyan/linestickerslib)
 
 ## Features
 
